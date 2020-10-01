@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  font-family: 'David Libre', serif;
+  font-weight: 300;
 }
 
 .App-logo {
